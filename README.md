@@ -6,7 +6,7 @@ CSE undergraduate at BUET. I work on efficient AI systems: LLM inference, GPU ke
 - **GPU:** [Zero-Copy GPU Vector Search](https://github.com/Morningstaaar36/Zero-Copy-GPU-Vector-Search-Re-Ranking-Engine) – custom CUDA kernels that match cuBLAS, 0.959 ms search over 1M documents
 - **Systems:** [TeamSync](https://github.com/Morningstaaar36/teamsync) – Kafka-driven Spring Boot microservices (Therap JavaFest 2025, top 10)
 - **LLM + optimisation:** [GridWise](https://github.com/Morningstaaar36/gridwise-llm-energy-optimizer) – LLM-to-linear-program energy scheduler
-- **Hardware:** [Robot car](https://github.com/Morningstaaar36/CSE_316) – ATmega32, Bluetooth and voice control, ultrasonic obstacle avoidance
+- **Hardware:** [Robot car](https://github.com/Morningstaaar36/CSE_316) – ATmega32, Bluetooth and voice control, ultrasonic obstacle detection with automatic stop
 
 Python · C++ · CUDA · PyTorch · Java · Spring Boot · Kafka · Docker
 
